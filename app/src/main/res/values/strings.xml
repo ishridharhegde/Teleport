@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Teleport</string>
+    <string name="title_activity_bottom__navigation">Bottom_Navigation</string>
+    <string name="title_home">Feeds</string>
+    <string name="title_dashboard">Hotels</string>
+    <string name="title_notifications">Travel</string>
+</resources>
